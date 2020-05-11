@@ -1,0 +1,26 @@
+.nav-wrapper{
+    background-color: gray;
+}
+
+#classes{
+    background-color: #888888;
+}
+
+#home{
+    padding: 10px;
+    font-size: 30px;
+}
+
+#home:hover{
+    font-size: 35px;
+}
+
+#classroom{
+    padding-top: 16px;
+    font-size: 30px;
+}
+
+#classroom:hover{
+    font-size: 35px;
+}
+

@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/685/976/945/dark-simple-simple-background-texture-wallpaper-preview.jpg);
+}
+
+.nav-wrapper{
+    background-color: black;
+}
+
+#home{
+    padding: 10px;
+    font-size: 30px;
+}
+
+#home:hover{
+    color: grey;
+}

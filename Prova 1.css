@@ -1,0 +1,84 @@
+.body{
+    background-color: white;
+
+}
+
+.brand-logo{
+    margin-right: 30px;
+}
+
+.nav-wrapper{
+    background-color: gray;
+}
+
+#menu{
+    font-size: 35px;
+    padding-bottom: 5px;
+}
+
+#menu:hover{
+    font-size: 40px;
+}
+
+#classroom{
+    font-size: 31px;
+    padding-top: 16px;
+}
+
+#classroom:hover{
+    font-size: 35px;
+}
+
+/* A partir d'aqui és perquè funcioni el menú */
+.navegación{
+    margin: auto;
+}
+
+.navegación ul{
+    list-style: none;
+}
+
+.menu > li{
+    position: relative;
+    display: inline-block;
+}
+
+.menu > li > a{
+    display: block;
+}
+
+
+
+.submenu{
+    background-color: #000000;
+    margin-left: 15px;
+    margin-top: 65px;
+    padding: 0px;
+    width: 190px;
+    position: absolute;
+    display: none;
+    font-size: medium;
+}
+
+.submenu li a{
+    display: block;
+}
+
+.submenu li a:hover{
+    color: grey;
+}
+
+.menu li:hover .submenu{
+    display: block;    
+}
+/* Aqui acava el programa perquè funcioni el menú */
+
+#meets{
+    background-color: #c9d6df;
+    position: unset;   
+}
+
+#imatge{
+    width: 1519px; height: 662px;
+    size: initial;
+}
